@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 
 NewtonsoftJsonSampler.Run();
 
-Person person = new Person
+Person person = new()
 {
     Name = "Alice",
     Age = 30,
