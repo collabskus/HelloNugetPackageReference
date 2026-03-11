@@ -183,3 +183,18 @@ Both projects target **`net10.0`** with nullable reference types and implicit us
 ## License
 
 MIT
+
+```
+    Directory: D:\DEV\personal\HelloNugetPackageReference\HelloNugetPackageReference.Console\bin\Debug\net10.0
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           3/11/2026  4:51 PM           8704 HelloNugetPackageReference.ClassLibrary.dll
+-a---           3/11/2026  4:51 PM          12732 HelloNugetPackageReference.ClassLibrary.pdb
+-a---           3/11/2026  4:51 PM           1603 HelloNugetPackageReference.Console.deps.json
+-a---           3/11/2026  4:51 PM           5120 HelloNugetPackageReference.Console.dll
+-a---           3/11/2026  4:51 PM         162816 HelloNugetPackageReference.Console.exe
+-a---           3/11/2026  4:51 PM          11968 HelloNugetPackageReference.Console.pdb
+-a---           3/11/2026  4:51 PM            270 HelloNugetPackageReference.Console.runtimeconfig.json
+-a---           9/16/2025  4:04 AM         723368 Newtonsoft.Json.dll
+```
